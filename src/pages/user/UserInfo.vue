@@ -1,6 +1,7 @@
 <template>
   <div>
       用户个人中心
+      <zh-button>自定义按钮</zh-button>
       <anchored-heading>
        aaaa
       </anchored-heading>
